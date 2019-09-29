@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  num1 + num2 = sum
+  return num1 + num2
   puts sum (4 , 5)
 end
 
@@ -14,9 +14,8 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  num1 * num2 = multiplication
+  num1 * num2 = product
   puts multiplication(4, 30)
-
 end
 
 def modulo(num1, num2)
